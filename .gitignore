@@ -1,6 +1,6 @@
 # ignore all hidden files and directories
 
-.*
+../.idea
 
 # except .gitignore file
 
